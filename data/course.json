@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "02a78f1b-0745-2652-580f-ee31c1b1ca5b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Schubert to Debussy",
+  "course_description": "This course is a survey of developments in Western musical style, 1815-1915. Students will study works by 35 composers, including the romantics: Schubert, Chopin, and Schumann; the post-romantics: Wagner, Verdi, and Brahms; the turn-of-the-centurians: Mahler, Debussy, and Ravel; and the Americans: Gottschalk, Beach, and Joplin. Score-reading ability is beneficial.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.250",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
